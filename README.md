@@ -22,5 +22,5 @@ Accessibility refactor of a Horiseon Web Application for the week one challenge 
 
 ## Screenshot
 
-![Screenshot of the web app.](C:\Users\Simon\Desktop\Bootcamp\01-challenge\01-challenge\assets\images\screenshot.png)
+![Screenshot of the web app.](assets/images/screenshot.png)
 
