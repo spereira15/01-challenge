@@ -6,8 +6,8 @@ Accessibility refactor of a Horiseon Web Application for the week one challenge 
 
 ## Links
 
-- Deployed application: [https://spereira15.github.io/01-challenge/](https://spereira15.github.io/01-challenge/)
-- GitHub repository: [https://github.com/spereira15](https://github.com/spereira15)
+- Deployed application: [https://spereira15.github.io/Horiseon-Web-App/](https://spereira15.github.io/Horiseon-Web-App/)
+- GitHub repository: [https://github.com/spereira15/Horiseon-Web-App](https://github.com/spereira15/Horiseon-Web-App)
 
 ## Work Done
 
